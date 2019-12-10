@@ -1,6 +1,6 @@
 # DS19 Mini Lab | Building Fun Circuits with Arduino and Sketch IDE
 
-This repository contains the lab for building fun circuits with different sensors and Arduino. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab for Building Fun Circuits with Arduino and Sketch IDE. It is one of the labs brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
